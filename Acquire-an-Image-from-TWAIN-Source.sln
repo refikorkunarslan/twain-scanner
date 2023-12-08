@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acquire-an-Image-from-TWAIN-Source", "Acquire-an-Image-from-TWAIN-Source.csproj", "{5472034D-4860-4F35-B9A7-32F8A3F10CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5472034D-4860-4F35-B9A7-32F8A3F10CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5472034D-4860-4F35-B9A7-32F8A3F10CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5472034D-4860-4F35-B9A7-32F8A3F10CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5472034D-4860-4F35-B9A7-32F8A3F10CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE992629-C13E-4038-8E5D-09A9E402790C}
+	EndGlobalSection
+EndGlobal
